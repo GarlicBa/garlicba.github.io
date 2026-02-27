@@ -32,7 +32,7 @@ In addition, I am an intern at [Horizon Robotics](https://horizon.cc/), where I 
 
 <!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2025/drivingworld.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2026/litevggt.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging**
@@ -47,7 +47,7 @@ CVPR, 2026
 
 
 # 🎖 Honors and Awards
-- *2025.12*: &nbsp; Principal's Award(The Highest Student Honor of NJUPT)
+- *2025.12*: &nbsp; Principal's Award (The Highest Student Honor of NJUPT).
 - *2025.10*: &nbsp; China National Scholarship (2/576, *0.34%*).
 - *2024.10*: &nbsp; China National Encouragement Scholarship.
 
