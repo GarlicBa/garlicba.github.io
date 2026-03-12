@@ -25,7 +25,7 @@ In addition, I am an intern at [Horizon Robotics](https://horizon.cc/), where I 
 
 
 # 🔥 News
-- *2026.03*: &nbsp; One paper has been submitted to ECCV.
+- *2026.03*: &nbsp; One paper has been submitted to ECCV 2026.
 - *2026.02*: &nbsp;🎉🎉 [LiteVGGT](https://garlicba.github.io/LiteVGGT/) is accepted by CVPR 2026!
 
 
