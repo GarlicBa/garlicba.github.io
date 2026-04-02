@@ -33,6 +33,21 @@ In addition, I am an intern at [Horizon Robotics](https://horizon.cc/), where I 
 
 <!-- ######################################################### -->
 
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2026/dinotok.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**DINO-Tok: Adapting DINO for Visual Tokenizers**
+
+arvix, 2026
+
+Mingkai Jia, Mingxiao Li, **Zhijian Shu**, Anlin Zheng, Liaoyuan Fan, Jiaxin Guo, Tianxing Shi, Dongyue Lu, Zeming Li, Xiaoyang Guo, Xiaojuan Qi, Xiao-Xiao Long, Qian Zhang, Ping Tan, Wei Yin
+
+[Paper](https://arxiv.org/abs/2511.20565v2) \| [Code](https://github.com/MKJia/DINO-Tok) ![](https://img.shields.io/github/stars/MKJia/DINO-Tok?style=social)
+</div>
+</div>
+
+<!-- ######################################################### -->
+
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2026/litevggt.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,6 +60,8 @@ CVPR, 2026
 [Paper](https://arxiv.org/abs/2512.04939)  \| [Project page](https://garlicba.github.io/LiteVGGT/) \| [Code](https://github.com/GarlicBa/LiteVGGT-repo) ![](https://img.shields.io/github/stars/GarlicBa/LiteVGGT-repo?style=social)
 </div>
 </div>
+
+
 
 
 # 🎖 Honors and Awards
