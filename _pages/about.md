@@ -34,6 +34,21 @@ In addition, I am an intern at [Horizon Robotics](https://horizon.cc/), where I 
 
 <!-- ######################################################### -->
 
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2026/eponav2.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**EponaV2: Driving World Model with Comprehensive Future Reasoning**
+
+arvix, 2026
+
+Jiawei Xu, Zhizhou Zhong, **Zhijian Shu**, Mingkai Jia, Mingxiao Li, Jia-Wang Bian, Qian Zhang, Kaicheng zhang, Jin Xie, jian Yang, Wei Yin
+
+[Paper](https://arxiv.org/abs/2605.14696) \| [Code](https://github.com/JiaweiXu8/EponaV2) ![](https://img.shields.io/github/stars/JiaweiXu8/EponaV2?style=social)
+</div>
+</div>
+
+<!-- ######################################################### -->
+
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2026/dinotok.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
