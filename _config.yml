@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhijian Shu"
+title                    : "Zhijian Shu(舒智健)"
 description              : "Yearn to do something impactful."
 repository               : "GarlicBa/GarlicBa.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhijian Shu"
+  name             : "Zhijian Shu(舒智健)"
   avatar           : "images/android-chrome-192x192.png"
   bio              : "Nanjing University of Posts and Telecommunications"
   location         : "Nanjing, China"
