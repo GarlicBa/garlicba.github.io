@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 I am currently a fourth-year undergraduate student in Communication Engineering at Nanjing University of Posts and Telecommunications (NJUPT). I will soon pursue my M.S. degree at the School of Computer Science and Engineering, Southeast University, where I will be jointly supervised by Prof. [Yang Chen](https://chenyang10.github.io/chengyang/)(杰青), Prof. [Xun Cao](https://ese.nju.edu.cn/cx/list.htm)(杰青), and Prof. [Xiao-Xiao Long](https://scholar.google.com/citations?user=W3G5kZEAAAAJ&hl=en)(**main**).
-I am now an intern at Horizon Robotics, where I work closely with [Wei Yin](https://scholar.google.com/citations?user=ZIf_rtcAAAAJ&hl=en).
 
-My research interests lie in world models and embodied AI.
+I am now an intern at Horizon Robotics, where I work closely with [Wei Yin](https://scholar.google.com/citations?user=ZIf_rtcAAAAJ&hl=en). My research interests lie in world models and embodied AI.
+
+<p style="font-weight: 600; color: #3b82f6;">
+  If you are interested in my research or would like to collaborate, please feel free to reach out!
+</p>
+
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 [LiteVGGT](https://garlicba.github.io/LiteVGGT/) is accepted by CVPR 2026!
@@ -27,6 +31,24 @@ My research interests lie in world models and embodied AI.
 
 # 📝 Publications 
 
+## Selected papers
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2026/litevggt.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging**
+
+CVPR, 2026
+
+**Zhijian Shu**, Chen Lin, Tao Xie, Wei Yin, Ben Li, Zhiyuan Pu, Weize Li, Yao Yao, Xun Cao, Xiaoyang Guo, Xiao-Xiao Long
+
+[Paper](https://arxiv.org/abs/2512.04939)  \| [Project page](https://garlicba.github.io/LiteVGGT/) \| [Code](https://github.com/GarlicBa/LiteVGGT-repo) ![](https://img.shields.io/github/stars/GarlicBa/LiteVGGT-repo?style=social)
+</div>
+</div>
+
+## Others
 <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2026/eponav2.png' alt="sym" width="100%"></div>
@@ -57,32 +79,19 @@ Mingkai Jia, Mingxiao Li, **Zhijian Shu**, Anlin Zheng, Liaoyuan Fan, Jiaxin Guo
 </div>
 </div>
 
-<!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2026/litevggt.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging**
-
-CVPR, 2026
-
-**Zhijian Shu**, Chen Lin, Tao Xie, Wei Yin, Ben Li, Zhiyuan Pu, Weize Li, Yao Yao, Xun Cao, Xiaoyang Guo, Xiao-Xiao Long
-
-[Paper](https://arxiv.org/abs/2512.04939)  \| [Project page](https://garlicba.github.io/LiteVGGT/) \| [Code](https://github.com/GarlicBa/LiteVGGT-repo) ![](https://img.shields.io/github/stars/GarlicBa/LiteVGGT-repo?style=social)
-</div>
-</div>
 
 
 
 
 # 🎖 Honors and Awards
 - *2025.12*: &nbsp; Principal's Award (The Highest Student Honor of NJUPT).
-- *2025.10*: &nbsp; China National Scholarship (2/576, *0.34%*).
+- *2025.10*: &nbsp; China National Scholarship (1/590, *0.16%*).
 - *2024.10*: &nbsp; China National Encouragement Scholarship.
 
 
 # 📖 Educations
-- *2023.09 - now*, B.S. in Communication Engineering (ranking top 1%, 2/576), Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China.
+- *2023.09 - now*, B.S. in Communication Engineering (ranking top 1%, 1/590), Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China.
 
 
 # 💬 Invited Talks
@@ -90,4 +99,4 @@ not yet
 
 
 # 💻 Internships
-- *2025.09 - now*, [Horizon Robotics](https://horizon.cc/), Shanghai.
+- **2025.09 - Present**, [Horizon Robotics](https://horizon.cc/), Shanghai — working with [Wei Yin](https://scholar.google.com/citations?user=ZIf_rtcAAAAJ&hl=en).
