@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a fourth-year undergraduate student in Communication Engineering at Nanjing University of Posts and Telecommunications (NJUPT). I will soon pursue my M.S. degree at the School of Computer Science and Engineering, Southeast University, where I will be jointly supervised by Prof. [Yang Chen](https://chenyang10.github.io/chengyang/)(杰青), Prof. [Xun Cao](https://ese.nju.edu.cn/cx/list.htm)(杰青), and Prof. [Xiao-Xiao Long](https://scholar.google.com/citations?user=W3G5kZEAAAAJ&hl=en)(**main**).
+I am currently a fourth-year undergraduate student in Communication Engineering at Nanjing University of Posts and Telecommunications (NJUPT). I will soon pursue my M.S. degree at the School of Computer Science and Engineering, Southeast University, where I will be jointly supervised by Prof. [Yang Chen](https://chenyang10.github.io/chengyang/), Prof. [Xun Cao](https://ese.nju.edu.cn/cx/list.htm), and Prof. [Xiao-Xiao Long](https://scholar.google.com/citations?user=W3G5kZEAAAAJ&hl=en)(**main**).
 
 I am now an intern at Horizon Robotics, where I work closely with [Wei Yin](https://scholar.google.com/citations?user=ZIf_rtcAAAAJ&hl=en). My research interests lie in world models and embodied AI.
 
