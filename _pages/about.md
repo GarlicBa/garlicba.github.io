@@ -29,6 +29,7 @@ I am now an intern at Horizon Robotics, where I work closely with [Wei Yin](http
 - *2026.02*: &nbsp;🎉🎉 [LiteVGGT](https://garlicba.github.io/LiteVGGT/) is accepted by CVPR 2026!
 
 
+
 # 📝 Publications 
 
 ## Selected papers
@@ -91,7 +92,7 @@ Mingkai Jia, Mingxiao Li, **Zhijian Shu**, Anlin Zheng, Liaoyuan Fan, Jiaxin Guo
 
 
 # 📖 Educations
-- *2023.09 - now*, B.S. in Communication Engineering (ranking top 1%, 1/590), Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China.
+- *2023.09 - Present*, B.S. in Communication Engineering (ranking top 1%, 1/590), Nanjing University of Posts and Telecommunications (NJUPT), Nanjing, China.
 
 
 # 💬 Invited Talks
@@ -99,4 +100,4 @@ not yet
 
 
 # 💻 Internships
-- **2025.09 - Present**, [Horizon Robotics](https://horizon.cc/), Shanghai — working with [Wei Yin](https://scholar.google.com/citations?user=ZIf_rtcAAAAJ&hl=en).
+- *2025.09 - Present*, [Horizon Robotics](https://www.horizon.auto/about), Shanghai — working with [Wei Yin](https://scholar.google.com/citations?user=ZIf_rtcAAAAJ&hl=en).
