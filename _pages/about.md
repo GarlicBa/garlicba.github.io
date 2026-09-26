@@ -20,7 +20,7 @@ I am currently a fourth-year undergraduate student in Communication Engineering 
 
 I am now an intern at Horizon Robotics, where I work closely with [Wei Yin](https://scholar.google.com/citations?user=ZIf_rtcAAAAJ&hl=en). My research interests lie in world models and embodied AI.
 
-<p style="font-weight: 600; color: #3b82f6;">
+<p style="font-weight: 700; color: #2b2b2b;">
   If you are interested in my research or would like to collaborate, please feel free to reach out!
 </p>
 
