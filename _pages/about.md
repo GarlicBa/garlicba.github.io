@@ -16,17 +16,12 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a third-year undergraduate student in Communication Engineering at Nanjing University of Posts and Telecommunications (NJUPT). I am a visiting student at the 3DV Lab of Nanjing University, under the supervision of [Prof. Xiao-Xiao Long](https://scholar.google.com/citations?user=W3G5kZEAAAAJ&hl=en).
-In addition, I am an intern at [Horizon Robotics](https://horizon.cc/), where I work closely with [Wei Yin](https://yvanyin.xyz/). 
- My research interests include computer vision and world model. 
+I am currently a fourth-year undergraduate student in Communication Engineering at Nanjing University of Posts and Telecommunications (NJUPT). I will soon pursue my M.S. degree at the School of Computer Science and Engineering, Southeast University, where I will be jointly supervised by Prof. [Yang Chen](https://chenyang10.github.io/chengyang/)(杰青), Prof. [Xun Cao](https://ese.nju.edu.cn/cx/list.htm)(杰青), and Prof. [Xiao-Xiao Long](https://scholar.google.com/citations?user=W3G5kZEAAAAJ&hl=en)(**main**).
+I am now an intern at Horizon Robotics, where I work closely with [Wei Yin](https://scholar.google.com/citations?user=ZIf_rtcAAAAJ&hl=en).
 
-
- <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
+My research interests lie in world models and embodied AI.
 
 # 🔥 News
-- *2026.05*: &nbsp; One paper has been submitted to NeurIPS 2026.
-- *2026.03*: &nbsp; One paper has been submitted to ECCV 2026.
 - *2026.02*: &nbsp;🎉🎉 [LiteVGGT](https://garlicba.github.io/LiteVGGT/) is accepted by CVPR 2026!
 
 
