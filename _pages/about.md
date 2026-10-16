@@ -83,6 +83,21 @@ Jiawei Xu, Zhizhou Zhong, **Zhijian Shu**, Mingkai Jia, Mingxiao Li, Jia-Wang Bi
 </div>
 </div>
 
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2026/walt.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**WALT: Learning World-Model-Aligned Latent Trajectories for Autonomous Driving**
+
+arvix, 2026
+
+Mingkai Jia, Jiaxin Guo, **Zhijian Shu**, Jiawei Xu, Mingxiao Li, Jintao Cheng, Ping Tan, Wei Yin
+
+[Paper](https://arxiv.org/pdf/2609.30436)
+</div>
+</div>
+
 
 
 
