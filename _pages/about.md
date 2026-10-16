@@ -26,6 +26,7 @@ I am now an intern at Horizon Robotics, where I work closely with [Wei Yin](http
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 [DINO-Tok](https://github.com/MKJia/DINO-Tok) is accepted by WACV 2027!
 - *2026.02*: &nbsp;🎉🎉 [LiteVGGT](https://garlicba.github.io/LiteVGGT/) is accepted by CVPR 2026!
 
 
@@ -50,6 +51,23 @@ CVPR, 2026
 </div>
 
 ## Others
+
+
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2026/dinotok.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**DINO-Tok: Adapting DINO for Visual Tokenizers**
+
+WACV, 2027
+
+Mingkai Jia, Mingxiao Li, **Zhijian Shu**, Anlin Zheng, Liaoyuan Fan, Jiaxin Guo, Tianxing Shi, Dongyue Lu, Zeming Li, Xiaoyang Guo, Xiaojuan Qi, Xiao-Xiao Long, Qian Zhang, Ping Tan, Wei Yin
+
+[Paper](https://arxiv.org/abs/2511.20565v2) \| [Code](https://github.com/MKJia/DINO-Tok) ![](https://img.shields.io/github/stars/MKJia/DINO-Tok?style=social)
+</div>
+</div>
+
 <!-- ######################################################### -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='collections/2026/eponav2.png' alt="sym" width="100%"></div>
@@ -64,23 +82,6 @@ Jiawei Xu, Zhizhou Zhong, **Zhijian Shu**, Mingkai Jia, Mingxiao Li, Jia-Wang Bi
 [Paper](https://arxiv.org/abs/2605.14696) \| [Code](https://github.com/JiaweiXu8/EponaV2) ![](https://img.shields.io/github/stars/JiaweiXu8/EponaV2?style=social)
 </div>
 </div>
-
-<!-- ######################################################### -->
-
-<div class='paper-box'><div class='paper-box-image'><img src='collections/2026/dinotok.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-**DINO-Tok: Adapting DINO for Visual Tokenizers**
-
-arvix, 2026
-
-Mingkai Jia, Mingxiao Li, **Zhijian Shu**, Anlin Zheng, Liaoyuan Fan, Jiaxin Guo, Tianxing Shi, Dongyue Lu, Zeming Li, Xiaoyang Guo, Xiaojuan Qi, Xiao-Xiao Long, Qian Zhang, Ping Tan, Wei Yin
-
-[Paper](https://arxiv.org/abs/2511.20565v2) \| [Code](https://github.com/MKJia/DINO-Tok) ![](https://img.shields.io/github/stars/MKJia/DINO-Tok?style=social)
-</div>
-</div>
-
-
 
 
 
